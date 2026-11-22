@@ -1,0 +1,92 @@
+{
+  "users": [
+  {
+    "id": 1,
+    "firstName": "Pradyumn",
+    "lastName": "Patil",
+    "email": "pradyumn@gmail.com",
+    "issuedBooks": [
+      {
+        "bookId": 5,
+        "issueDate": "01/01/2023",
+        "returnDate": "15/01/2023"
+      },
+      {
+        "bookId": 7,
+        "issueDate": "05/02/2023",
+        "returnDate": "20/02/2023"
+      }
+    ],
+    "subscriptionType": "Premium",
+    "subscriptionDate": "01/01/2018"
+  },
+   {
+    "id": 2,
+    "firstName": "Shantanu",
+    "lastName": "Shinde",
+    "email": "Shantanu@gmail.com",
+    "issuedBooks": [
+      {
+         "bookId": 8,
+        "issueDate": "10/03/2023",
+        "returnDate": "25/03/2023"
+      }
+    ],
+    "subscriptionType": "Basic",
+    "subscriptionDate": "25/07/2018"
+  },
+  {
+    "id": 3,
+    "firstName": "Renuka",
+    "lastName": "Rathod",
+    "email": "renuka@gmail.com",
+    "issuedBooks": [
+      {
+        "bookId": 18,
+        "issueDate": "15/04/2023",
+        "returnDate": "30/04/2023"
+      }
+    ],
+    "subscriptionType": "Premium",
+    "subscriptionDate": "17/01/2020"
+  },
+  {
+    "id": 4,
+    "firstName": "Ikshvaku",
+    "lastName": "Inamdar",
+    "email": "ikshvaku@gmail.com",
+    "issuedBooks": [
+      {
+        "bookId": 29,
+        "issueDate": "20/05/2023",
+        "returnDate": "05/06/2023"
+      }
+    ],
+    "subscriptionType": "Standard",
+    "subscriptionDate": "19/01/2019"
+  },
+  {
+    "id": 5,
+    "firstName": "Karishma",
+    "lastName": "Khandekar",
+    "email": "Karihsma@gmail.com",
+    "subscriptionType": "Standard",
+    "subscriptionDate": "01/01/2018"
+  },
+  {
+    "id": 6,
+    "firstName": "Gargi",
+    "lastName": "Gaikwad",
+    "email": "Gargi@gmail.com",
+    "issuedBooks": [
+      {
+        "bookId": 14,
+        "issueDate": "30/07/2023",
+        "returnDate": "15/08/2023"
+      }
+    ],
+    "subscriptionType": "Premium",
+    "subscriptionDate": "15/05/2025"
+  }
+]
+}
